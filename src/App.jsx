@@ -10,6 +10,7 @@ import Apprendre from "./components/Apprendre";
 import CitoyenProfil from "./components/CitoyenProfil";
 import DashboardAgent from "./components/DashboardAgent";
 import AgentProfil from "./components/AgentProfil";
+import Footer from "./components/Footer";
 
 export default function App() {
   return (
@@ -27,6 +28,7 @@ export default function App() {
           <Route path="/agent" element={<DashboardAgent />} />
           <Route path="/agent/profil" element={<AgentProfil />} />
         </Routes>
+        <Footer />
       </BrowserRouter>
     </AuthProvider>
   );

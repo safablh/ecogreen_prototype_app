@@ -101,3 +101,11 @@ body {
   flex-direction: column;
   gap: 0.25rem;
 }
+
+footer {
+  text-align: center;
+  color: #64748b;
+  font-size: 0.85rem;
+  padding-top: 20px;
+  transform: translateY(-20px);
+}
