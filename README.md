@@ -10,8 +10,8 @@ EcoGreen encourages citizens to sort their waste (plastic bottles, paper) by rew
 
 The app supports two user roles:
 
-- **Citizens** — declare waste deposits and track their points.
-- **Agents** — validate or reject deposits.
+- **Citizens** : declare waste deposits and track their points.
+- **Agents** : validate or reject deposits.
 
 ## Stack
 
