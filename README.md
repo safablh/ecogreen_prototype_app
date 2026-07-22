@@ -18,4 +18,4 @@ The app supports two user roles:
 - React
 - Tailwind CSS
 
-> This is a frontend only prototype: user accounts, points, and deposits are stored in the browser's `localStorage` (no backend/database).
+> This is a frontend prototype: user accounts, points, and deposits are stored in the browser's `localStorage` (no backend/database).
